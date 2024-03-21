@@ -8,6 +8,7 @@ cereal
 12 eggs
 salsa
 bacon
+Wheat bread
 orange juice
 grapes
 lemons
